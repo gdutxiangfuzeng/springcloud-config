@@ -1,1 +1,2 @@
-aa
+config:
+  info: main branch,springcloud-config/config-test.yml
